@@ -23,9 +23,9 @@ Please feel free to make additions, **keeping the lists in chronologic order (by
   + Story about this: Researchers find bug in Python script may have affected hundreds of studies, Sean Gallagher, Ars Technicha, 2019. https://arstechnica.com/information-technology/2019/10/chemists-discover-cross-platform-python-scripts-not-so-cross-platform
   + In short, the code assumed the list of files in a directory is sorted, which it is on Windows but not on Linux or MacOS (see text describing Figure 2 in Neupane). This is an example of a portability bug.
 * Notice of Retraction. Aboumatar et al. Effect of a Program Combining Transitional Care and Long-term Self-management Support on Outcomes of Hospitalized Patients With Chronic Obstructive Pulmonary Disease: A Randomized Clinical Trial. JAMA. 2018;320(22):2335-2343, Hanan Aboumatar and Robert A. Wise, JAMA. 2019. https://doi.org/10.1001/jama.2019.11954
-* A case for open communication of bugs in climate models, made with ICON version 2024.01, Proske, U., Brüggemann, N., Gärtner, J. P., Gutjahr, O., Haak, H., Putrasahan, D., and Wieners, K.-H., EGUsphere, 2024.  https://doi.org/10.5194/egusphere-2024-3493
 * Retraction Note: Limited individual attention and online virality of low-quality information, Xiaoyan Qiu, Diego F. M. Oliveira, Alireza Sahami Shirazi, Alessandro Flammini, and Filippo Menczer, Nature Human Behavior, 2019. https://doi.org/10.1038/s41562-018-0507-0
   + "a software bug led to an incorrect value"
+* A case for open communication of bugs in climate models, made with ICON version 2024.01, Proske, U., Brüggemann, N., Gärtner, J. P., Gutjahr, O., Haak, H., Putrasahan, D., and Wieners, K.-H., EGUsphere, 2024.  https://doi.org/10.5194/egusphere-2024-3493
 
 ## Papers / articles related to general software as used in research (eg, Excel-related errors)
 
