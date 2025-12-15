@@ -107,7 +107,7 @@ If you use this work, please credit/cite it and the [authors](./AUTHORS.md).
 
 ### BibTeX File
 
-A [BibTeX][bibtex] files of citation that have [DOIs][doi] is included in this repository, see `references.bib`. It is
+A [BibTeX][bibtex] files of citations that have [DOIs][doi] is included in this repository, see `references.bib`. It is
 currently manually generated using the included [Bash][bash] script `doi2bibtex` which can parse the `README.md`.
 
 If you are adding an entry to this `README.md` note the formatting suggested at the start of this `README.md` and please
